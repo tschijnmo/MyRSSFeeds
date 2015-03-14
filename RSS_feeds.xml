@@ -27,19 +27,31 @@
 <outline text="Ann Phys" title="Ann Phys" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00034916" htmlUrl="http://www.sciencedirect.com" />
 <outline text="Europhys Lett" title="Europhys Lett" type="rss" xmlUrl="http://iopscience.iop.org/0295-5075/?rss=1" htmlUrl="http://iopscience.iop.org/0295-5075/?rss=1" />
 <outline text="Contemp Phys" title="Contemp Phys" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=gcmhwm&amp;ai=16c&amp;jc=tcph20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/toc/tcph20/current" />
+<outline text="Ann Phys (Berlin)" title="Ann Phys (Berlin)" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3889" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291521-3889" />
 <outline text="Eur J Phys" title="Eur J Phys" type="rss" xmlUrl="http://iopscience.iop.org/0143-0807/?rss=1" htmlUrl="http://iopscience.iop.org/0143-0807/?rss=1" />
 </outline>
 <outline title="Phys: Low Energy" text="Phys: Low Energy">
+<outline text="Ann Rev Cond Phys" title="Ann Rev Cond Phys" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=68t8&amp;jc=conmatphys&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/conmatphys?ai=68t8&amp;mi=3fndc3&amp;af=R" />
 <outline text="Phys Rev B" title="Phys Rev B" type="rss" xmlUrl="http://feeds.aps.org/rss/recent/prb.xml" htmlUrl="http://prb.aps.org/" />
 <outline text="Phys Rev B, Pick" title="Phys Rev B, Pick" type="rss" xmlUrl="http://feeds.aps.org/rss/prbsuggestions.xml" htmlUrl="http://prb.aps.org/" />
 <outline text="Phys Rev A" title="Phys Rev A" type="rss" xmlUrl="http://feeds.aps.org/rss/recent/pra.xml" htmlUrl="http://pra.aps.org/" />
 <outline text="Phys Rev A, Pick" title="Phys Rev A, Pick" type="rss" xmlUrl="http://feeds.aps.org/rss/prasuggestions.xml" htmlUrl="http://pra.aps.org/" />
 <outline text="Phys Rev E" title="Phys Rev E" type="rss" xmlUrl="http://feeds.aps.org/rss/recent/pre.xml" htmlUrl="http://pre.aps.org/" />
 <outline text="Phys Rev E, Pick" title="Phys Rev E, Pick" type="rss" xmlUrl="http://feeds.aps.org/rss/presuggestions.xml" htmlUrl="http://pre.aps.org/" />
-<outline text="Ann Rev Cond Phys" title="Ann Rev Cond Phys" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=68t8&amp;jc=conmatphys&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/conmatphys?ai=68t8&amp;mi=3fndc3&amp;af=R" />
 <outline text="J Phys: Cond Matt" title="J Phys: Cond Matt" type="rss" xmlUrl="http://iopscience.iop.org/0953-8984/?rss=1" htmlUrl="http://iopscience.iop.org/0953-8984/?rss=1" />
-<outline text="J Phys B: AMO Phys" title="J Phys B: AMO Phys" type="rss" xmlUrl="http://iopscience.iop.org/0953-4075/?rss=1" htmlUrl="http://iopscience.iop.org/0953-4075/?rss=1" />
+<outline text="J Phys B: At Mol Opt" title="J Phys B: At Mol Opt" type="rss" xmlUrl="http://iopscience.iop.org/0953-4075/?rss=1" htmlUrl="http://iopscience.iop.org/0953-4075/?rss=1" />
 <outline text="Phys Lett A" title="Phys Lett A" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03759601" htmlUrl="" />
+<outline text="Eur Phys J B" title="Eur Phys J B" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10051&amp;channel-name=The+European+Physical+Journal+B" htmlUrl="http://link.springer.com" />
+<outline text="Eur Phys J D" title="Eur Phys J D" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10053&amp;channel-name=The+European+Physical+Journal+D" htmlUrl="http://link.springer.com" />
+<outline text="Eur Phys J E" title="Eur Phys J E" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10189&amp;channel-name=The+European+Physical+Journal+E" htmlUrl="http://link.springer.com" />
+<outline text="J Stat Mech Theor Exp" title="J Stat Mech Theor Exp" type="rss" xmlUrl="http://iopscience.iop.org/1742-5468/?rss=1" htmlUrl="http://iopscience.iop.org/1742-5468/?rss=1" />
+<outline text="Phys Status Solidi, RPL" title="Phys Status Solidi, RPL" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1862-6270" htmlUrl="" />
+<outline text="Phys Status Solidi B" title="Phys Status Solidi B" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-3951" htmlUrl="" />
+<outline text="Physica A" title="Physica A" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03784371" htmlUrl="http://www.sciencedirect.com" />
+<outline text="Physica B" title="Physica B" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09214526" htmlUrl="http://www.sciencedirect.com" />
+<outline text="Physica C" title="Physica C" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09214534" htmlUrl="http://www.sciencedirect.com" />
+<outline text="Physica D" title="Physica D" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/01672789" htmlUrl="http://www.sciencedirect.com" />
+<outline text="Supercond Sci Technol" title="Supercond Sci Technol" type="rss" xmlUrl="http://iopscience.iop.org/0953-2048/?rss=1" htmlUrl="http://iopscience.iop.org/0953-2048/?rss=1" />
 </outline>
 <outline title="Phys: High Energy" text="Phys: High Energy">
 <outline text="Phys Rev C" title="Phys Rev C" type="rss" xmlUrl="http://feeds.aps.org/rss/recent/prc.xml" htmlUrl="http://prc.aps.org/" />
@@ -47,19 +59,28 @@
 <outline text="Phys Rev D" title="Phys Rev D" type="rss" xmlUrl="http://feeds.aps.org/rss/recent/prd.xml" htmlUrl="http://prd.aps.org/" />
 <outline text="Phys Rev D, Pick" title="Phys Rev D, Pick" type="rss" xmlUrl="http://feeds.aps.org/rss/prdsuggestions.xml" htmlUrl="http://prd.aps.org/" />
 <outline text="J High Energy Phys" title="J High Energy Phys" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=13130&amp;channel-name=Journal+of+High+Energy+Physics" htmlUrl="http://link.springer.com" />
+<outline text="J Cosmol Astropart Phys" title="J Cosmol Astropart Phys" type="rss" xmlUrl="http://iopscience.iop.org/1475-7516/?rss=1" htmlUrl="http://iopscience.iop.org/1475-7516/?rss=1" />
+<outline text="Astropart Phys" title="Astropart Phys" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/09276505" htmlUrl="http://www.sciencedirect.com" />
 <outline text="Nucl Phys A" title="Nucl Phys A" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03759474" htmlUrl="http://www.sciencedirect.com" />
 <outline text="Nucl Phys B" title="Nucl Phys B" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/05503213" htmlUrl="http://www.sciencedirect.com" />
 <outline text="Ann Rev Nucl Part Sci" title="Ann Rev Nucl Part Sci" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sx&amp;jc=nucl&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/nucl?ai=sx&amp;mi=3fndc3&amp;af=R" />
 <outline text="Phys Lett B" title="Phys Lett B" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/03702693" htmlUrl="http://www.sciencedirect.com" />
 <outline text="J Phys G: Nucl Part Phys" title="J Phys G: Nucl Part Phys" type="rss" xmlUrl="http://iopscience.iop.org/0954-3899/?rss=1" htmlUrl="http://iopscience.iop.org/0954-3899/?rss=1" />
 <outline text="Prog Part Nucl Phys" title="Prog Part Nucl Phys" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/01466410" htmlUrl="http://www.sciencedirect.com" />
+<outline text="Eur Phys J A" title="Eur Phys J A" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10050&amp;channel-name=The+European+Physical+Journal+A" htmlUrl="http://link.springer.com" />
+<outline text="Eur Phys J C" title="Eur Phys J C" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10052&amp;channel-name=The+European+Physical+Journal+C" htmlUrl="http://link.springer.com" />
 </outline>
 <outline title="Math: Pure" text="Math: Pure">
 <outline text="Bull Am Math Soc" title="Bull Am Math Soc" type="rss" xmlUrl="http://www.ams.org/rss/bull.rss" htmlUrl="" />
 <outline text="J Am Math Soc" title="J Am Math Soc" type="rss" xmlUrl="http://www.ams.org/rss/jams.rss" htmlUrl="" />
+<outline text="Trans Am Math Soc" title="Trans Am Math Soc" type="rss" xmlUrl="http://www.ams.org/rss/tran.rss" htmlUrl="http://www.ams.org/tran/" />
 <outline text="Comm Pure Appl Math" title="Comm Pure Appl Math" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/%28ISSN%291097-0312" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291097-0312" />
 <outline text="Acta Math" title="Acta Math" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11511&amp;channel-name=Acta+Mathematica" htmlUrl="http://link.springer.com" />
 <outline text="Invent Math" title="Invent Math" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=222&amp;channel-name=Inventiones+mathematicae" htmlUrl="http://link.springer.com" />
+<outline text="Publ Math IHES" title="Publ Math IHES" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=10240&amp;channel-name=Publications+math%C3%A9matiques+de+l%27IH%C3%89S" htmlUrl="http://link.springer.com" />
+<outline text="Duke Math J" title="Duke Math J" type="rss" xmlUrl="http://projecteuclid.org/feeds/euclid.dmj_rss.xml" htmlUrl="http://projecteuclid.org/euclid.dmj" />
+<outline text="Geom Funct Anal" title="Geom Funct Anal" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=39&amp;channel-name=Geometric+and+Functional+Analysis" htmlUrl="http://link.springer.com" />
+<outline text="J Diff Geom" title="J Diff Geom" type="rss" xmlUrl="http://projecteuclid.org/feeds/euclid.jdg_rss.xml" htmlUrl="http://projecteuclid.org/euclid.jdg" />
 </outline>
 <outline title="Math: Applied" text="Math: Applied">
 <outline text="J Math Phys" title="J Math Phys" type="rss" xmlUrl="http://scitation.aip.org/rss/content/aip/journal/jmp/latestarticles?fmt=rss" htmlUrl="http://scitation.aip.org/" />
@@ -69,20 +90,34 @@
 <outline text="J Comput Phys" title="J Comput Phys" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00219991" htmlUrl="http://www.sciencedirect.com" />
 <outline text="Comput Phys Comm" title="Comput Phys Comm" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00104655" htmlUrl="http://www.sciencedirect.com" />
 <outline text="SIAM Rev" title="SIAM Rev" type="rss" xmlUrl="http://epubs.siam.org/action/showFeed?ui=0&amp;mi=85haxl&amp;ai=s5&amp;jc=siread&amp;type=etoc&amp;feed=rss" htmlUrl="http://epubs.siam.org/loi/siread?ai=s5&amp;mi=85haxl&amp;af=R" />
+<outline text="Lett Math Phys" title="Lett Math Phys" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=11005&amp;channel-name=Letters+in+Mathematical+Physics" htmlUrl="http://link.springer.com" />
 </outline>
-<outline title="Chem" text="Chem">
+<outline title="Chem: Gen" text="Chem: Gen">
+<outline text="Chem Rev" title="Chem Rev" type="rss" xmlUrl="http://feeds.feedburner.com/acs/chreay" htmlUrl="http://pubs.acs.org" />
+<outline text="Acc Chem Res" title="Acc Chem Res" type="rss" xmlUrl="http://feeds.feedburner.com/acs/achre4" htmlUrl="http://pubs.acs.org" />
 <outline text="Nat Chem" title="Nat Chem" type="rss" xmlUrl="http://www.nature.com/nchem/current_issue/rss/index.html" htmlUrl="http://www.nature.com/nchem/current_issue/" />
 <outline text="Nat Chem, Research" title="Nat Chem, Research" type="rss" xmlUrl="http://feeds.nature.com/NatureChemicalSciencesResearch?format=xml" htmlUrl="http://www.nature.com/nature/research/chemical-sciences.rdf" />
+<outline text="C&amp;EN" title="C&amp;EN" type="rss" xmlUrl="http://feeds.feedburner.com/cen_latestnews" htmlUrl="http://cen.acs.org/news/ln.html" />
 <outline text="Angew Chem Int Ed" title="Angew Chem Int Ed" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/%28ISSN%291521-3773" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291521-3773" />
 <outline text="J Am Chem Soc" title="J Am Chem Soc" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jacsat" htmlUrl="http://pubs.acs.org" />
+<outline text="Chem Comm" title="Chem Comm" type="rss" xmlUrl="http://feeds.rsc.org/rss/cc" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/CC" />
+</outline>
+<outline title="Chem: Phys" text="Chem: Phys">
 <outline text="Ann Rev Phys Chem" title="Ann Rev Phys Chem" type="rss" xmlUrl="http://www.annualreviews.org/action/showFeed?ui=45mu4&amp;mi=3fndc3&amp;ai=sy&amp;jc=physchem&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.annualreviews.org/loi/physchem?ai=sy&amp;mi=3fndc3&amp;af=R" />
+<outline text="WIRES Comp Mol Sci" title="WIRES Comp Mol Sci" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/%28ISSN%291759-0884" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291759-0884" />
 <outline text="Int Rev Phys Chem" title="Int Rev Phys Chem" type="rss" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=fz19v6&amp;ai=1l0&amp;jc=trpc20&amp;type=etoc&amp;feed=rss" htmlUrl="http://www.tandfonline.com/toc/trpc20/current" />
+<outline text="J Chem Theory Compt" title="J Chem Theory Compt" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jctcce" htmlUrl="http://pubs.acs.org" />
 <outline text="J Chem Phys" title="J Chem Phys" type="rss" xmlUrl="http://scitation.aip.org/rss/content/aip/journal/jcp/latestarticles?fmt=rss" htmlUrl="http://scitation.aip.org" />
 <outline text="J Chem Phys, Pick" title="J Chem Phys, Pick" type="rss" xmlUrl="http://scitation.aip.org/rss/content/aip/journal/jcp/latest_editors_articles?fmt=rss" htmlUrl="http://scitation.aip.org/content/aip/journal/jcp?TRACK=RSS" />
-<outline text="J Phys Chem Lett" title="J Phys Chem Lett" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jpclcd" htmlUrl="http://pubs.acs.org" />
-<outline text="J Chem Theory Compt" title="J Chem Theory Compt" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jctcce" htmlUrl="http://pubs.acs.org" />
-<outline text="WIRES Comp Mol Sci" title="WIRES Comp Mol Sci" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1111/%28ISSN%291759-0884" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2F%28ISSN%291759-0884" />
 <outline text="Phys Chem Chem Phys" title="Phys Chem Chem Phys" type="rss" xmlUrl="http://feeds.rsc.org/rss/CP?format=xml" htmlUrl="http://pubs.rsc.org/en/Journals/Journal/CP" />
+<outline text="J Phys Chem Lett" title="J Phys Chem Lett" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jpclcd" htmlUrl="http://pubs.acs.org" />
+<outline text="J Phys Chem A" title="J Phys Chem A" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jpcafh" htmlUrl="http://pubs.acs.org" />
+<outline text="J Phys Chem B" title="J Phys Chem B" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jpcbfk" htmlUrl="http://pubs.acs.org" />
+<outline text="J Phys Chem C" title="J Phys Chem C" type="rss" xmlUrl="http://feeds.feedburner.com/acs/jpccck" htmlUrl="http://pubs.acs.org" />
+<outline text="ChemPhysChem" title="ChemPhysChem" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1439-7641" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291439-7641" />
+<outline text="Theor Chem Acc" title="Theor Chem Acc" type="rss" xmlUrl="http://link.springer.com/search.rss?facet-content-type=Article&amp;facet-journal-id=214&amp;channel-name=Theoretical+Chemistry+Accounts" htmlUrl="http://link.springer.com" />
+<outline text="Int J Quant Chem" title="Int J Quant Chem" type="rss" xmlUrl="http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1097-461X" htmlUrl="http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2F%28ISSN%291097-461X" />
+<outline text="Chem Phys Lett" title="Chem Phys Lett" type="rss" xmlUrl="http://rss.sciencedirect.com/publication/science/00092614" htmlUrl="http://www.sciencedirect.com" />
 </outline>
 <outline title="News" text="News">
 <outline text="Reuters" title="Reuters" type="rss" xmlUrl="http://feeds.reuters.com/reuters/topNews" htmlUrl="http://www.reuters.com" />
